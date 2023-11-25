@@ -6,7 +6,7 @@
  Languages and Tools:
   </h4>  
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,bootstrap,materialui,nodejs,docker,mongodb,postgres,sequelize&perline=7" style="max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,styledcomponents,bootstrap,materialui,nodejs,docker,mongodb,postgres,sequelize&perline=8" style="max-width: 100%;"/>
 <!--   <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
