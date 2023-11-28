@@ -28,15 +28,28 @@
   <a href="https://www.linkedin.com/in/samuelltorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
 <br>
-<br>
-<br>
+
+
 <div>
   <h4 align="left">
     ⚡ GitHub Stats
   </h4>
   <a href="https://github.com/samuelltorres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelltorres&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>    
+    
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelltorres&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelltorres&layout=compact&langs_count=7&&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelltorres&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelltorres&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> -->
+    
+  <table style="margin: 0 auto;" align="left">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelltorres&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelltorres&layout=compact&langs_count=7&&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
