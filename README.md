@@ -45,10 +45,11 @@
   <table style="margin: 0 auto;" align="left">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelltorres&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelltorres&show_icons=true&hide_title=true&count_private=true&text_color=ffffff&icon_color=0891b2&bg_color=66000000&hide_border=true&show_icons=true"/>        
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelltorres&layout=compact&langs_count=7&&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>
+<!--         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelltorres&layout=compact&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=66000000&hide_border=true&show_icons=true"/> -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelltorres&layout=compact&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true"/>
       </td>
     </tr>
   </table>
