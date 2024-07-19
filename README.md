@@ -3,8 +3,7 @@
 ## 💜 Olá, meu nome é Samuell!
 
 - 💡 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando sobre JavaScript e TypeScript no DevClub.
-- 💼 Trabalhando com projetos freelancer.
+- 💼 Trabalhando com projetos pessoais.
 - 🌱 Aprendendo mais sobre backend com Java.
 
 <br/>
